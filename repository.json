@@ -4,10 +4,10 @@
 "name": "HA_miniDLNA",
 
  
-"url": "https://github.com/cavaliere78/ha_minidlna",
+"url": "https://github.com/jaroslavhykel/ha_minidlna.git",
 
  
-"maintainer": "Salvatore Saggiomo <salvatore.saggiomo78@gmail.com>"
+"maintainer": "Jaroslav Hykel <jaroslav.hykel@gmail.com>"
 
  
 }
